@@ -18,6 +18,7 @@ const IMAGES = [
     "/ndcs.jpeg",
     "/sdc.jpeg",
     "/sxcs.jpeg",
+    "/mi.jpeg",
     "/WhatsApp Image 2026-02-13 at 11.22.11 PM.jpeg",
     "/WhatsApp Image 2026-02-13 at 11.22.s.jpeg",
 ];
