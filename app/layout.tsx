@@ -16,8 +16,9 @@ const nunito = Nunito({
 import MusicPlayer from "./components/MusicPlayer";
 
 export const metadata: Metadata = {
-  title: "A Special Question...",
-  description: "For my Valentine",
+  title: "For You, Risha 💕",
+  description: "A little something made with love",
+  icons: { icon: "/icon.svg" },
 };
 
 export default function RootLayout({
